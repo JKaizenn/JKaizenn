@@ -26,4 +26,4 @@ Hi, I'm Jessen! I am passionate about technology and coding. Here are a few thin
 - [Repository Link](https://github.com/JKaizenn/project2)
 
 ## Connect with me
-- [LinkedIn](["https://www.linkedin.com/in/jessen-forbush/"])
+- [LinkedIn](https://www.linkedin.com/in/jessen-forbush/)
