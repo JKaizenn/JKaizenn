@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+JKaizenn%27s+GitHub+Profile)
+![Profile Banner](![Profile Banner](https://github.com/JKaizenn/JKaizenn/blob/main/github-header-image.png))
 
 ## About Me
 Hi, I'm Jessen! I am passionate about technology and coding. Here are a few things about me:
