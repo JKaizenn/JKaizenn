@@ -16,14 +16,5 @@ Hi, I'm Jessen! I am passionate about technology and coding. Here are a few thin
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JKaizenn&layout=compact&theme=radical)
 
-## Projects
-### Project 1
-- Description of project 1.
-- [Repository Link](https://github.com/JKaizenn/project1)
-
-### Project 2
-- Description of project 2.
-- [Repository Link](https://github.com/JKaizenn/project2)
-
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jessen-forbush/)
