@@ -3,7 +3,7 @@
 ![Profile Banner](https://github.com/JKaizenn/JKaizenn/blob/main/github-header-image.png)
 
 ## About Me
-Hi, I'm Jessen! I am passionate about technology and coding. Here are a few things about me:
+Hi, I'm Jessen! Here are a few things about me:
 - 🔭 I’m currently working on various exciting projects.
 - 🌱 I’m currently learning new programming languages and technologies.
 - 👯 I’m looking to collaborate on open-source projects.
