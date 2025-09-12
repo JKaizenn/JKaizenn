@@ -7,17 +7,17 @@ Please visit my personal portfolio at https://www.jforbush.dev/ for more informa
 
 ## About Me
 Hi, I'm Jessen! Here are a few things about me:
-- 🔭 I’m currently working on various exciting projects.
-- 🌱 I’m currently learning new programming languages and technologies.
+- 🔭 I’m currently working on - [IntelliGrade](https://github.com/JKaizenn/IntelliGrade) – AI-powered autograder for student code.
+- 🌱 I’m currently learning C++ and C# Foundations.
 - 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, Python, or anything tech-related.
+- 💬 Ask me about Software Design and Architechture.
 - 📫 How to reach me: [Email](mailto:for21011@byui.edu)
 
 ## GitHub Stats
-![JKaizenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JKaizenn&show_icons=true&theme=radical)
+![jkaizenn's Stats](https://github-readme-stats.vercel.app/api?username=jkaizenn&theme=nord&show_icons=true&hide_border=false&count_private=true)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JKaizenn&layout=compact&theme=radical)
+## Top Programming Languages and Technologies
+![jkaizenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkaizenn&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jessen-forbush/)
