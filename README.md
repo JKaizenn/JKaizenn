@@ -2,6 +2,9 @@
 
 ![Profile Banner](https://github.com/JKaizenn/JKaizenn/blob/main/github-header-image.png)
 
+# Personal Website
+Please visit my personal portfolio at https://www.jforbush.dev/ for more information!
+
 ## About Me
 Hi, I'm Jessen! Here are a few things about me:
 - 🔭 I’m currently working on various exciting projects.
