@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-![Profile Banner](https://github.com/JKaizenn/JKaizenn/blob/main/github-header-image.png)
+![Profile Banner](https://github.com/JKaizenn/JKaizenn/blob/main/github-header-banner.png)
 
 # Personal Website
 Please visit my personal portfolio at https://www.jforbush.dev/ for more information!
