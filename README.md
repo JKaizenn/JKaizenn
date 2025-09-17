@@ -13,12 +13,6 @@ Hi, I'm Jessen! Here are a few things about me:
 - 💬 Ask me about Software Design and Architechture.
 - 📫 How to reach me: [Email](mailto:for21011@byui.edu)
 
-## GitHub Stats
-![jkaizenn's Stats](https://github-readme-stats.vercel.app/api?username=jkaizenn&theme=nord&show_icons=true&hide_border=false&count_private=true)
-
-## Top Programming Languages and Technologies
-![jkaizenn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkaizenn&theme=nord&show_icons=true&hide_border=false&layout=compact)
-
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/jessen-forbush/)
 
